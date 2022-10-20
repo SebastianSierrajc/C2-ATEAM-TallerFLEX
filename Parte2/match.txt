@@ -9,22 +9,22 @@ Axel:ULTBL1U:R2
 Grasshopper:L1BLURTL:L2
 Mr. Grimm:TULR1S:L2
 Spectre:URUR1B:R2
-Axel:ULTBL1U:L2
+Axel:L1L2R1R2LRU
 Grasshopper:L1BLURTL:R2
 Mr. Grimm:TULR1S:R2
 Spectre:URUR1B:L2
 Axel:ULTBL1U:R2
-Grasshopper:L1BLURTL:R2
+Grasshopper:RRDD
 Mr. Grimm:TULR1S:L2
 Spectre:URUR1B:L2
 Axel:ULTBL1U:L2
 Grasshopper:L1BLURTL:L2
-Mr. Grimm:TULR1S:R2
+Mr. Grimm:LRDD
 Spectre:URUR1B:R2
 Axel:ULTBL1U:R2
 Grasshopper:L1BLURTL:R2
 Mr. Grimm:TULR1S:R2
-Spectre:URUR1B:L2
+Spectre:UDU
 Axel:ULTBL1U:R2
 Grasshopper:L1BLURTL:L2
 Mr. Grimm:TULR1S:L2
