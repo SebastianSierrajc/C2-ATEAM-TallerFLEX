@@ -1,0 +1,47 @@
+Start
+Paris
+Axel
+Grasshopper
+Mr. Grimm
+Spectre
+Start Match
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:L2
+Mr. Grimm:TULR1S:L2
+Spectre:URUR1B:R2
+Axel:ULTBL1U:L2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:L2
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:L2
+Spectre:URUR1B:L2
+Axel:ULTBL1U:L2
+Grasshopper:L1BLURTL:L2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:R2
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:L2
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:L2
+Mr. Grimm:TULR1S:L2
+Spectre:URUR1B:R2
+Axel:ULTBL1U:L2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:L2
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:L2
+Spectre:URUR1B:L2
+Axel:ULTBL1U:L2
+Grasshopper:L1BLURTL:L2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:R2
+Axel:ULTBL1U:R2
+Grasshopper:L1BLURTL:R2
+Mr. Grimm:TULR1S:R2
+Spectre:URUR1B:L2
